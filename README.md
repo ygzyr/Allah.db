@@ -24,4 +24,3 @@ db.sil("2637821589679")
 
 ```
 
-#allahsız database
